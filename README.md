@@ -24,7 +24,7 @@ The happiness score of each country is based on these six factors:
 ## Data Source
 The project leverages open-source datasets from Kaggle. These resources are integral to addressing the outlined business questions.
 - [World Happiness Report Main Page]([https://worldhappiness.report/])
-- The World Happiness Report Dataset 2005-2023, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via [Kaggle]([https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated/data]) on August 1, 2024.
+- The World Happiness Report Dataset 2005-2023, Accessed from [Kaggle]([https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated/data]) on August 1, 2024.
 ## Tools
 - **Pandas**: for data analysis
 - **Numpy**: for mathematical equations
