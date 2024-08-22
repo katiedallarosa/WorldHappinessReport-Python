@@ -41,6 +41,6 @@ The insights derived from this analysis will cater to:
 - **04 Analysis**: Separated into two subfolders Reports and Visualizations. The Reports subfolder contains crosstabs and the Visualizations subfolder contains the visualizations used for developing and explaining insights.
 - **05 Sent to Client**: Final report
 ## Final Deliverable
-For a comprehensive view of my findings, please refer to the [Final Project Presentation] as well as the [World Happiness Report zip folder](https://https://github.com/katiedallarosa/WorldHappinessReport-Python/blob/main/World%20Happiness%20Report%20KDallaRosa%202024.zip) containing all data sets, graphs, and reports.
+For a comprehensive view of my findings, please refer to the [Final Project Presentation via Tableau](https://public.tableau.com/views/WorldHappinessReport2005-2023/WorldHappinessReport?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) as well as the [World Happiness Report zip folder](https://https://github.com/katiedallarosa/WorldHappinessReport-Python/blob/main/World%20Happiness%20Report%20KDallaRosa%202024.zip) containing all data sets, graphs, and reports.
 
 This analysis is not only about uncovering current trends but also about predicting future world happiness.
