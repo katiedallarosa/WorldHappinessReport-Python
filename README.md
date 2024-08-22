@@ -23,8 +23,8 @@ The happiness score of each country is based on these six factors:
 - How does the happiness score change over the years for the entire world? 
 ## Data Source
 The project leverages open-source datasets from Kaggle. These resources are integral to addressing the outlined business questions.
-- [World Happiness Report Main Page]([https://worldhappiness.report/])
-- The World Happiness Report Dataset 2005-2023, Accessed from [Kaggle]([https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated/data]) on August 1, 2024.
+- [World Happiness Report Main Page](https://worldhappiness.report/)
+- The World Happiness Report Dataset 2005-2023, Accessed from [Kaggle](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated/data) on August 1, 2024.
 ## Tools
 - **Pandas**: for data analysis
 - **Numpy**: for mathematical equations
